@@ -97,7 +97,7 @@ Download all files into the directory of './test(demo)/model/'.
 This repo is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, and scientific publications. Permission is granted to use FeatNN given that you agree to my licensing terms. Regarding the request for commercial use, please contact us via email to help you obtain the authorization letter.  
 
 ## Author  
-Binjie Guo, Hanyu Zheng, Haohan Jiang, Xuhua Wang
+Binjie Guo, Hanyu Zheng
 
 
 ## Acknowledgement
